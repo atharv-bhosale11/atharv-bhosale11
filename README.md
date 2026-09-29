@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology enthusiast with a strong interest in Java, Python, Data Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions, automation tools, and data-driven applications that solve real-world problems.<br><br>Through various projects, I have gained hands-on experience in Python automation, Java programming, machine learning, data analysis, and software development. From developing automated backup systems and file management utilities to implementing machine learning models and predictive analytics solutions, I continuously strive to strengthen both my programming and problem-solving skills.<br><br>I am currently focused on expanding my knowledge in Data Structures & Algorithms, System Design, Artificial Intelligence, and Machine Learning Engineering while building projects that demonstrate real-world applications of these technologies. I am always eager to learn new technologies, collaborate on innovative projects, and grow as a software engineer. pls add Python in circle
 
@@ -14,12 +12,6 @@ Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology en
 ![](https://streak-stats.demolab.com/?user=atharv-bhosale11&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharv-bhosale11&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=atharv-bhosale11&theme=radical&no-frame=true&no-bg=true&column=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -27,4 +19,3 @@ Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology en
 [![](https://komarev.com/ghpvc/?username=atharv-bhosale11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/atharv-bhosale11/atharv-bhosale11/blob/output/github-snake-dark.svg)
