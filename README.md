@@ -12,9 +12,6 @@ Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology en
 ![](https://streak-stats.demolab.com/?user=atharv-bhosale11&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharv-bhosale11&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=atharv-bhosale11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
