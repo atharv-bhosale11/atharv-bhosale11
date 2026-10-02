@@ -15,4 +15,6 @@ Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology en
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=atharv-bhosale11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/atharv-bhosale11/atharv-bhosale11/blob/output/github-snake-dark.svg)
