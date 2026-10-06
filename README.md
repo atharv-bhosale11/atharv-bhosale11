@@ -109,11 +109,7 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
 
 ### ⭐ Thanks for visiting my profile!
 
