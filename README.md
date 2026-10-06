@@ -103,7 +103,7 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ## 📌 Motto
 
-> "Consistency & Disciplineare the keys to success."
+> "Consistency & Discipline are the keys to success."
 
 ---
 
