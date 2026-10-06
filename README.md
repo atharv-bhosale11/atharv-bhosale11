@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atharv Tushar Bhosale
 
-### Software Developer | Java Developer | Python Developer | Machine Learning Enthusiast
+### Software Developer | Java Developer | Python Developer | AI & Machine Learning Developer
 
 ---
 
