@@ -1,18 +1,120 @@
-# 💫 About Me:
-Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology enthusiast with a strong interest in Java, Python, Data Science, Artificial Intelligence, and Machine Learning. I enjoy building practical software solutions, automation tools, and data-driven applications that solve real-world problems.<br><br>Through various projects, I have gained hands-on experience in Python automation, Java programming, machine learning, data analysis, and software development. From developing automated backup systems and file management utilities to implementing machine learning models and predictive analytics solutions, I continuously strive to strengthen both my programming and problem-solving skills.<br><br>I am currently focused on expanding my knowledge in Data Structures & Algorithms, System Design, Artificial Intelligence, and Machine Learning Engineering while building projects that demonstrate real-world applications of these technologies. I am always eager to learn new technologies, collaborate on innovative projects, and grow as a software engineer.
+# Hi 👋, I'm Atharv Tushar Bhosale
 
+### Software Developer | Java Developer | Python Developer | Machine Learning Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvvvvvv_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-tushar-bhosale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharv.t.bhosale112@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atharv-bhosale11&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=atharv-bhosale11&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharv-bhosale11&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me
+
+Hi, I'm **Atharv Tushar Bhosale**, a passionate software developer and technology enthusiast with a strong interest in **Java, Python, Data Science, Artificial Intelligence, and Machine Learning**.
+
+I enjoy building practical software solutions, automation tools, and data-driven applications that solve real-world problems.
+
+Through various projects, I have gained hands-on experience in:
+
+- Java Development
+- Python Programming
+- Data Structures & Algorithms
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Software Development
+- Automation Tools
+
+I am currently focused on expanding my knowledge in:
+
+- Data Structures & Algorithms
+- System Design
+- Artificial Intelligence
+- Machine Learning Engineering
+- Software Architecture
+
+My goal is to become a highly skilled Software Engineer and contribute to innovative products that impact millions of users worldwide.
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atharvvvvvv_11)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-tushar-bhosale)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharv.t.bhosale112@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+### Machine Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=atharv-bhosale11&theme=chartreuse-dark&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-bhosale11&theme=chartreuse-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-bhosale11&theme=chartreuse-dark&layout=compact)
+
+---
 
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=atharv-bhosale11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+---
+
+## 🚀 Current Focus
+
+- Solving DSA Problems Daily
+- Building Machine Learning Projects
+- Learning System Design
+- Preparing for Product-Based Companies
+- Strengthening Java & Python Skills
+- Working Towards FAANG-Level Opportunities
+
+---
+
+## 📌 Motto
+
+> "Consistency & Disciplineare the keys to success."
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharv-bhosale11/atharv-bhosale11/output/github-contribution-grid-snake.svg">
+</picture>
+
+### ⭐ Thanks for visiting my profile!
+
+**Atharv Tushar Bhosale**
