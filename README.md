@@ -90,15 +90,6 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ---
 
-## 🚀 Current Focus
-
-- Solving DSA Problems Daily
-- Building Machine Learning Projects
-- Learning System Design
-- Preparing for Product-Based Companies
-- Strengthening Java & Python Skills
-- Working Towards FAANG-Level Opportunities
-
 ---
 
 ## 📌 Motto
