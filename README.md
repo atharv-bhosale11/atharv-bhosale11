@@ -109,7 +109,7 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
+![snake gif](https://github.com/atharv-bhosale11/atharv-bhosale11/blob/output/github-snake.svg)
 
 ### ⭐ Thanks for visiting my profile!
 
