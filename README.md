@@ -84,12 +84,6 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=atharv-bhosale11&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
----
-
 ---
 
 ## 📌 Motto
