@@ -94,7 +94,7 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ## 📈 GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharv-bhosale11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-bhosale11&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%">
 
 ---
 
