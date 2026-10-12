@@ -94,7 +94,7 @@ My goal is to become a highly skilled Software Engineer and contribute to innova
 
 ## 📈 GitHub Contribution Graph
 
-<img src="https://brettterpstra.com/contrib/generate?username=atharv-bhosale11&months=12&theme=dark&width=1200&caption_year=1&caption_month=1&caption_day=0&download=0" alt="GitHub Contribution Graph" width="100%">
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=atharv-bhosale11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%">
 
 
 ## 🐍 Contribution Snake 
