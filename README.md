@@ -4,7 +4,7 @@
 
 ---
 
-# 💫 About Me
+# 💫 About Me 
 
 Hi, I'm **Atharv Tushar Bhosale**, a passionate software developer and technology enthusiast with a strong interest in **Java, Python, Data Science, Artificial Intelligence, and Machine Learning**.
 
