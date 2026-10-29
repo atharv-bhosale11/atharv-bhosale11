@@ -20,6 +20,7 @@ Through various projects, I have gained hands-on experience in:
 - Data Analysis
 - Software Development
 - Automation Tools
+- Deep Learning
 
 I am currently focused on expanding my knowledge in:
 
