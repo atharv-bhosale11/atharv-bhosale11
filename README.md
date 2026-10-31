@@ -1,32 +1,42 @@
-Hi 👋, I'm Atharv Tushar Bhosale
-Software Developer | Java Developer | Python Developer | AI, Machine Learning & Deep Learning Developer
-💫 About Me
+# Hi 👋, I'm Atharv Tushar Bhosale
 
-Hi, I'm Atharv Tushar Bhosale, a passionate software developer and technology enthusiast with a strong interest in Software Engineering, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning.
+### Software Developer | Java Developer | Python Developer | AI, Machine Learning & Deep Learning Developer
+
+---
+
+## 💫 About Me
+
+Hi, I'm **Atharv Tushar Bhosale**, a passionate software developer and technology enthusiast with a strong interest in **Software Engineering, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning**.
 
 I enjoy developing practical software solutions, automation tools, and intelligent applications that solve real-world problems. I believe in continuous learning and strengthening my technical skills through hands-on projects and consistent coding practice.
 
-💻 Technical Interests & Skills
-Programming Languages: Java, Python, C, C++
-Data Structures & Algorithms
-Software Development
-Machine Learning
-Deep Learning
-Artificial Intelligence
-Data Science & Data Analysis
-Neural Networks & Artificial Neural Networks
-Automation & Problem Solving
-🚀 Currently Focused On
-Strengthening Data Structures & Algorithms.
-Improving Java and Python programming skills.
-Exploring Artificial Intelligence and Machine Learning.
-Studying Deep Learning and Neural Network architectures.
-Building practical Machine Learning and Deep Learning projects.
-Learning System Design and Software Architecture.
-Developing scalable and efficient software solutions.
-🎯 My Goal
+## 💻 Technical Interests & Skills
+
+- **Programming Languages:** Java, Python, C, C++
+- **Data Structures & Algorithms**
+- **Software Development**
+- **Machine Learning**
+- **Deep Learning**
+- **Artificial Intelligence**
+- **Data Science & Data Analysis**
+- **Neural Networks & Artificial Neural Networks**
+- **Automation & Problem Solving**
+
+## 🚀 Currently Focused On
+
+- Strengthening Data Structures & Algorithms.
+- Improving Java and Python programming skills.
+- Exploring Artificial Intelligence and Machine Learning.
+- Studying Deep Learning and Neural Network Architectures.
+- Building practical Machine Learning and Deep Learning projects.
+- Learning System Design and Software Architecture.
+- Developing scalable and efficient software solutions.
+
+## 🎯 My Goal
 
 My goal is to become a highly skilled Software Engineer and AI/ML Developer, contribute to innovative products, solve challenging engineering problems, and build technology that creates a meaningful impact on millions of users worldwide.
+
+---
 
 ---
 
