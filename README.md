@@ -81,13 +81,11 @@ My goal is to become a highly skilled Software Engineer and AI/ML Developer, con
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=atharv-bhosale11&theme=chartreuse-dark&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=atharv-bhosale11&theme=chartreuse-dark&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-bhosale11&theme=chartreuse-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=atharv-bhosale11&theme=chartreuse-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-bhosale11&theme=chartreuse-dark&layout=compact)
-
----
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=atharv-bhosale11&theme=chartreuse-dark&layout=compact)
 
 ---
 
