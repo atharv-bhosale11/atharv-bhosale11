@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atharv Tushar Bhosale 
 
-### Software Developer | Java Developer | Python Developer | AI, Machine Learning & Deep Learning Developer  
+### Software Developer | Java Developer | Python Developer | AI, Machine Learning & Deep Learning Developer   
 
 ---
 
@@ -105,5 +105,6 @@ My goal is to become a highly skilled Software Engineer and AI/ML Developer, con
 ![snake gif](https://github.com/atharv-bhosale11/atharv-bhosale11/blob/output/github-snake.svg)
 
 ### ⭐ Thanks for visiting my profile!
-
+ 
 **Atharv Tushar Bhosale**
+
