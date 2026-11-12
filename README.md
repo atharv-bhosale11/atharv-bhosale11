@@ -2,7 +2,7 @@
 
 ### Software Developer | Java Developer | Python Developer | AI, Machine Learning & Deep Learning Developer   
 
----
+--- 
 
 ## 💫 About Me
 
