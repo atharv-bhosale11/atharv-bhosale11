@@ -22,6 +22,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Neural Networks & Artificial Neural Networks**
 - **Automation & Problem Solving**
 - **Neural Networks & Artificial Neural Networks**
+- **Convolutional Neural Networks (CNN)**
 
 ## 🚀 Currently Focused On
 
