@@ -21,6 +21,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Data Science & Data Analysis**
 - **Neural Networks & Artificial Neural Networks**
 - **Automation & Problem Solving**
+- **Neural Networks & Artificial Neural Networks**
 
 ## 🚀 Currently Focused On
 
