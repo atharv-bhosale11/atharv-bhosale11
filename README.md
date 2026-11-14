@@ -24,6 +24,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Neural Networks & Artificial Neural Networks**
 - **Convolutional Neural Networks (CNN)**
 - **Recurrent Neural Networks (RNN)**
+- **Long Short-Term Memory (LSTM)**
 
 ## 🚀 Currently Focused On
 
