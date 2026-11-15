@@ -12,7 +12,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 
 ## 💻 Technical Interests & Skills
 
-- **Programming Languages:** Java, Python, C, C++
+- **Programming Languages:** Java, Python, C
 - **Data Structures & Algorithms**
 - **Software Development**
 - **Machine Learning**
