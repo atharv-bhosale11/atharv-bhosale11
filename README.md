@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-Hi, I'm **Atharv Tushar Bhosale**, a passionate software developer and technology enthusiast with a strong interest in **Software Engineering, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning**.
+Hi, I'm **Atharv Tushar Bhosale**, a passionate software developer and technology enthusiast with a strong interest in **Software Engineering, Data Science, Artificial Intelligence, Machine Learning, Automation and Deep Learning**.
 
 I enjoy developing practical software solutions, automation tools, and intelligent applications that solve real-world problems. I believe in continuous learning and strengthening my technical skills through hands-on projects and consistent coding practice.
 
