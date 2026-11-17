@@ -93,12 +93,6 @@ My goal is to become a highly skilled Software Engineer and AI/ML Developer, con
 
 ---
 
-## 📌 Motto
-
-> "Consistency & Discipline are the keys to success."
-
----
-
 ## 📈 GitHub Contribution Graph
 
 <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=atharv-bhosale11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%">
