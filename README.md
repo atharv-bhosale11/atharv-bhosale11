@@ -24,13 +24,14 @@ I enjoy developing practical software solutions, automation tools, and intellige
 
 ## 🚀 Currently Focused On
 
-- Strengthening Data Structures & Algorithms.
-- Improving Java and Python programming skills.
-- Exploring Artificial Intelligence and Machine Learning.
-- Studying Deep Learning and Neural Network Architectures.
-- Building practical Machine Learning and Deep Learning projects.
-- Learning System Design and Software Architecture.
-- Developing scalable and efficient software solutions.
+- Strengthening Data Structures & Algorithms for technical interviews.
+- Improving problem-solving skills through consistent Java and Python coding practice.
+- Exploring advanced Machine Learning and Deep Learning concepts.
+- Understanding Neural Network architectures, including CNNs, RNNs, LSTMs and Transformers.
+- Building practical, end-to-end AI/ML projects.
+- Learning System Design, Software Architecture and scalable application development.
+- Exploring Generative AI and Large Language Models (LLMs).
+- Developing efficient, maintainable and scalable software solutions.
 
 ## 🎯 My Goal
 
