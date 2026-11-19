@@ -13,19 +13,14 @@ I enjoy developing practical software solutions, automation tools, and intellige
 ## 💻 Technical Interests & Skills
 
 - **Programming Languages:** Java, Python, C
-- **Data Structures & Algorithms**
-- **Software Development**
-- **Machine Learning**
-- **Deep Learning**
-- **Artificial Intelligence**
-- **Data Science & Data Analysis**
-- **Neural Networks & Artificial Neural Networks**
-- **Automation & Problem Solving**
-- **Neural Networks & Artificial Neural Networks**
-- **Convolutional Neural Networks (CNN)**
-- **Recurrent Neural Networks (RNN)**
-- **Long Short-Term Memory (LSTM)**
-- **Transformer**
+- **Core Computer Science:** Data Structures & Algorithms, Object-Oriented Programming, Problem Solving
+- **Software Engineering:** Software Development, Automation
+- **Artificial Intelligence & Machine Learning:** Supervised Learning, Unsupervised Learning, Predictive Modeling
+- **Deep Learning:** Neural Networks, Artificial Neural Networks (ANN)
+- **Deep Learning Architectures:** Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
+- **Natural Language Processing:** Text Processing, Sentiment Analysis, Transformers
+- **Data Science & Analytics:** Data Analysis, Data Preprocessing, Data Visualization
+- **Transformer Architectures:** Self-Attention, Multi-Head Attention, Encoder, Decoder, Encoder-Decoder and Decoder-Only Transformers
 
 ## 🚀 Currently Focused On
 
