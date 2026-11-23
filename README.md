@@ -21,6 +21,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Transformer Architectures:** Self-Attention, Multi-Head Attention, Encoder, Decoder, Encoder-Decoder, Decoder-Only
 - **Generative AI:** LLMs, Prompt Engineering, RAG, Generative AI Applications
 - **AI Agents:** Rule-Based Agents, Tool Calling, Agent Memory, Single-Agent & Multi-Agent Systems
+- **Frameworks:** LangChain, LangGraph, Streamlit
 
 ## 🚀 Currently Focused On
 
