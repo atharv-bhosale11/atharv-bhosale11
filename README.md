@@ -20,6 +20,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Data Science:** Data Analysis, Preprocessing, Visualization
 - **Transformer Architectures:** Self-Attention, Multi-Head Attention, Encoder, Decoder, Encoder-Decoder, Decoder-Only
 - **Generative AI:** LLMs, Prompt Engineering, RAG, Generative AI Applications
+- **AI Agents:** Rule-Based Agents, Tool Calling, Agent Memory, Single-Agent & Multi-Agent Systems
 
 ## 🚀 Currently Focused On
 
