@@ -22,7 +22,7 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - **Generative AI:** LLMs, Prompt Engineering, RAG, Generative AI Applications
 - **AI Agents:** Rule-Based Agents, Tool Calling, Agent Memory, Single-Agent & Multi-Agent Systems
 - **Frameworks:** LangChain, LangGraph, Streamlit
-- **Streamlit & AI Applications:** Interactive Web Applications
+- **Streamlit & AI Applications:** Interactive Web Applications, User Input Handling, File Uploads, PDF Text Extraction, AI Model Integration
 
 ## 🚀 Currently Focused On
 
