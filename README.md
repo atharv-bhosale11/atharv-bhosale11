@@ -33,6 +33,8 @@ I enjoy developing practical software solutions, automation tools, and intellige
 - Building practical, end-to-end AI/ML projects.
 - Learning System Design, Software Architecture and scalable application development.
 - Exploring Generative AI and Large Language Models (LLMs).
+- Developing interactive web applications and dashboards using Streamlit.
+- Integrating Machine Learning, Deep Learning and Generative AI models into Streamlit applications.
 - Developing efficient, maintainable and scalable software solutions.
 
 ## 🎯 My Goal
